@@ -18,10 +18,10 @@ ii. a key focus was placed on evaluating the  performance of Capomulin against a
 
 1. Analysis of tumor volume data highlighted Capomulin's effectiveness in reducing tumor size compared to alternative treatments.
 
-2. The median tumor volume for mice treated with Capomulin was notably lower than those receiving other regimens, indicative of its superior efficacy in inhibiting tumor growt 
+2. The median tumor volume for mice treated with Capomulin was notably lower than those receiving other regimens, indicative of its superior efficacy in inhibiting tumor growth.
 
 ### Relationship between Mouse Weight and Tumor Volume:
 1. An intriguing finding was the moderately positive correlation observed between mouse weight and average tumor volume among mice treated with Capomulin.
-2. The correlation coefficient, approximately *0.84* (hypothetical value), suggested a positive association between mouse weight and tumor volume, implying that heavier mice tended to exhibit larger tumor volumes.
+2. The correlation coefficient, approximately **0.84** (hypothetical value), suggested a positive association between mouse weight and tumor volume, implying that heavier mice tended to exhibit larger tumor volumes.
 
 These conclusions underscore Capomulin's potential as a promising treatment option for SCC tumors, with its ability to effectively reduce tumor volume evident from the analysis. Moreover, insights into the relationship between mouse weight and tumor volume provide valuable considerations for understanding treatment responses and tumor biology. However, further research and clinical trials are warranted to validate these findings and explore underlying mechanisms driving observed correlations, ultimately advancing our understanding of cancer treatment efficiently.
